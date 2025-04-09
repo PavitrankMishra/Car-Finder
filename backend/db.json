@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "price": 24000,
+      "fuelType": "Petrol",
+      "seatingCapacity": 5,
+      "image": "https://example.com/camry.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "price": 22000,
+      "fuelType": "Diesel",
+      "seatingCapacity": 5,
+      "image": "https://example.com/civic.jpg"
+    }
+  ]
+}
