@@ -2,21 +2,43 @@
   "cars": [
     {
       "id": 1,
-      "brand": "Toyota",
-      "model": "Camry",
-      "price": 24000,
+      "name": "Maruti Swift",
+      "brand": "Maruti",
+      "price": 650000,
       "fuelType": "Petrol",
-      "seatingCapacity": 5,
-      "image": "https://example.com/camry.jpg"
+      "seatingCapacity": 5
     },
     {
       "id": 2,
-      "brand": "Honda",
-      "model": "Civic",
-      "price": 22000,
+      "name": "Hyundai Creta",
+      "brand": "Hyundai",
+      "price": 1200000,
       "fuelType": "Diesel",
-      "seatingCapacity": 5,
-      "image": "https://example.com/civic.jpg"
+      "seatingCapacity": 5
+    },
+    {
+      "id": 3,
+      "name": "Tata Nexon EV",
+      "brand": "Tata",
+      "price": 1450000,
+      "fuelType": "Electric",
+      "seatingCapacity": 5
+    },
+    {
+      "id": 4,
+      "name": "Toyota Innova Crysta",
+      "brand": "Toyota",
+      "price": 2000000,
+      "fuelType": "Diesel",
+      "seatingCapacity": 7
+    },
+    {
+      "id": 5,
+      "name": "Honda City",
+      "brand": "Honda",
+      "price": 1150000,
+      "fuelType": "Petrol",
+      "seatingCapacity": 5
     }
   ]
 }
