@@ -1,8 +1,22 @@
 {
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "latest": "^0.2.0"
   },
   "scripts": {
-    "start": "json-server --watch db.json --port 5000"
-  }
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
